@@ -1,6 +1,6 @@
 <h1 align="center">Hola! 👋 I'm Nabil</h1>
 <p align="center">
-  🚀 Computer Science Student | Backend Developer | Tech Enthusiast
+  🚀 Informatics Engineering Student | Backend Developer | Tech Enthusiast
 </p>
 
 ---
@@ -40,8 +40,8 @@
 ---
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrLuluCat&layout=compact&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api?username=MrLuluCat&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrLuluCat&layout=compact&theme=radical" height="170" style="padding-right: 150px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MrLuluCat&show_icons=true&theme=radical" height="170" style="padding-left: 150px;"/>
 </p>
 
 ---
